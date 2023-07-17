@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+venv
+monotonic_align/build
+monotonic_align/monotonic_align
+monotonic_align/core.c
+*/__pycache__/*
+__pycache__/
